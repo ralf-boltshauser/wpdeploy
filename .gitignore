@@ -1,7 +1,6 @@
 /db_data
 /wordpress
 wp/
-*.tar.gz
 *.zip
 *.sql
 wp-config.*
